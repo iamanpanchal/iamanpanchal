@@ -31,6 +31,34 @@ DSA basics • Backend learning • Real-world mini projects
 
 ## 🔗 Connect
 
-GitHub: [https://github.com/iamanpanchal](https://github.com/iamanpanchal)
+<div align="center">
+
+<a href="https://www.instagram.com/aman_panchal19/?hl=en" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+
+<a href="mailto:iamanpanchal@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+
+<a href="https://www.linkedin.com/in/aman-panchal-a3b3aa317/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="https://github.com/iamanpanchal" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
+<!-- ✅ Fixed HackerRank link -->
+<a href="https://www.hackerrank.com/profile/iamanpanchal" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="45" />
+</a>
+
+
+</div>
+
+
+
+</div>
 
 ⭐ Learn → Build → Improve
