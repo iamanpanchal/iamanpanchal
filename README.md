@@ -1,57 +1,24 @@
 # 👋 Hi, I'm Aman Panchal
 
-🎓 First Year Student | 💻 Python Learner | 🔗 Blockchain Enthusiast | 🚀 Future Developer
-
----
+🎓 First Year Student | 💻 Python Learner | 🔗 Blockchain Enthusiast
 
 ## 🚀 About Me
 
-* 🎯 Currently learning **Python, Git, and Problem Solving**
-* 🧠 Practicing coding on HackerRank
-* 🔐 Interested in **Blockchain & Cyber Security**
-* 📚 Exploring Computer Networks & Backend Development
-* ⚡ Building beginner-friendly real-world projects
+* Learning Python, Git & Problem Solving
+* Practicing on HackerRank
+* Interested in Blockchain & Cyber Security
+* Building beginner CLI projects
 
----
+## 🛠️ Skills
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-* C | C++
-* Python
-* JavaScript (Basics)
-* Next.js | React.js 
-
-**Tools**
-
-* Git & GitHub
-* VS Code
-
----
+Python • Git • GitHub • HTML/CSS • VS Code
 
 ## 📌 Current Focus
 
-* ✅ Python problem solving
-* ✅ Git & GitHub workflow
-* ✅ CLI projects
-* 🔄 Mini automation tools
-* 🔄 Blockchain fundamentals
+DSA basics • Backend learning • Real-world mini projects
 
----
+## 🔗 Connect
 
-## 🤝 Connect With Me
+GitHub: [https://github.com/iamanpanchal](https://github.com/iamanpanchal)
 
-* 💼 GitHub: [https://github.com/iamanpanchal](https://github.com/iamanpanchal)
-* 🧠 HackerRank: (add your link)
-* 🔗 LinkedIn: (add your link)
-
----
-
-## ⭐ Motto
-
-> Learn → Build → Break → Fix → Repeat
-
----
-
-⭐ Thanks for visiting my profile!
+⭐ Learn → Build → Improve
