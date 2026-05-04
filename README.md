@@ -23,6 +23,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center" style="display:flex; justify-content:center; align-items:center; gap:16px; white-space:nowrap; overflow-x:auto;">
+
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/79d94cc5-a173-4415-80d0-8f60283e8aed" width="40"/>
+  </a>
   
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
