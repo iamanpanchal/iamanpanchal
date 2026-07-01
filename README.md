@@ -2,7 +2,7 @@
 
   <!-- Animated typing intro -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&duration=4000&color=04D9FF&center=true&vCenter=true&width=750&height=70&lines=Hey+👋,+I'm+Aman+Panchal;BlockChain | JAVAC%2B%2B+Developer;Python+Learner+🐍;Building+Modern+Web+Experiences" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&duration=4000&color=04D9FF&center=true&vCenter=true&width=750&height=70&lines=Hey+👋,+I'm+Aman+Panchal;Blockchain+Developer;Java+%7C+C%2B%2B+Developer;Python+Learner+🐍;Building+Modern+Web+Experiences" 
     alt="Typing Animation"
   />
 
@@ -13,56 +13,50 @@
 
 </div>
 
-
 ## 🚀 About Me
 
-* Learning Python, Git & Problem Solving
-* Practicing on HackerRank
-* Interested in Blockchain & Cyber Security
-* Building beginner CLI projects
+- Learning Python, Git & Problem Solving  
+- Practicing on HackerRank  
+- Interested in Blockchain & Cyber Security  
+- Building beginner CLI projects  
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:16px; white-space:nowrap; overflow-x:auto;">
+<h3 align="center">Languages and Tools:</h3>
 
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/79d94cc5-a173-4415-80d0-8f60283e8aed" width="40"/>
-  </a>
-  
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  </a>
+<div align="center">
 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  </a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</a>
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  </a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  </a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</a>
 
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</a>
 
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  </a>
+<a href="https://react.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+</a>
 
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  </a>
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+</a>
 
 </div>
 
-
-
 ## 📌 Current Focus
 
-DSA basics • Backend learning • Real-world mini projects
+**DSA Basics • Backend Learning • Real-world Mini Projects**
 
 ## 🔗 Connect
 
@@ -84,16 +78,10 @@ DSA basics • Backend learning • Real-world mini projects
   <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
-<!-- ✅ Fixed HackerRank link -->
 <a href="https://www.hackerrank.com/profile/iamanpanchal" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="45" />
 </a>
 
-
 </div>
 
-
-
-</div>
-
-⭐ Learn → Build → Improve
+<h3 align="center">⭐ Learn → Build → Improve</h3>
