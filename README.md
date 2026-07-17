@@ -1,87 +1,133 @@
 <div align="center">
 
-  <!-- Animated typing intro -->
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&duration=4000&color=04D9FF&center=true&vCenter=true&width=750&height=70&lines=Hey+👋,+I'm+Aman+Panchal;Blockchain+Developer;Java+%7C+C%2B%2B+Developer;Python+Learner+🐍;Building+Modern+Web+Experiences" 
-    alt="Typing Animation"
-  />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Aman+Panchal;B.Tech+CSE+(AI)+Student;Java+Developer;Blockchain+Enthusiast;Full+Stack+Developer+in+Progress;Always+Learning+🚀" />
 
-  <br/>
+<br><br>
 
-  <!-- glowing divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00AA&height=2&section=header" width="80%"/>
+<img src="https://komarev.com/ghpvc/?username=iamanpanchal&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/iamanpanchal?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/iamanpanchal?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
 
-## 🚀 About Me
+---
 
-- Learning Python, Git & Problem Solving  
-- Practicing on HackerRank  
-- Interested in Blockchain & Cyber Security  
-- Building beginner CLI projects  
+# 👨‍💻 About Me
 
-<h3 align="center">Languages and Tools:</h3>
+```java
+public class AmanPanchal {
+
+    String role = "Aspiring Software Developer";
+    String college = "Parul University";
+    String degree = "B.Tech CSE (AI)";
+
+    String[] learning = {
+        "Java",
+        "Data Structures & Algorithms",
+        "React",
+        "Node.js",
+        "Blockchain",
+        "MERN Stack"
+    };
+}
+```
+
+- 🌱 Currently learning **Java, DSA, MERN & Blockchain**
+- 💻 Love building real-world projects
+- 🚀 Passionate about Open Source
+- 📚 Always learning new technologies
+
+---
+
+# 💻 Tech Stack
 
 <div align="center">
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-</a>
+### Languages
 
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-</a>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-</a>
+<br>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-</a>
+### Frameworks
 
-<a href="https://react.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-</a>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-</a>
+<br>
 
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-</a>
+### Blockchain
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs)
+
+<br>
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 </div>
 
-## 📌 Current Focus
+---
 
-**DSA Basics • Backend Learning • Real-world Mini Projects**
-
-## 🔗 Connect
+# 📈 Contribution Graph
 
 <div align="center">
 
-<a href="https://www.instagram.com/aman_panchal19/?hl=en" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
-</a>
-
-<a href="mailto:iamanpanchal@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-
-<a href="https://www.linkedin.com/in/aman-panchal-a3b3aa317/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-
-<a href="https://github.com/iamanpanchal" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/iamanpanchal" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="45" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamanpanchal&theme=tokyo-night"/>
 
 </div>
 
-<h3 align="center">⭐ Learn → Build → Improve</h3>
+---
+
+# 🎯 Current Goals
+
+- ✅ Master Java
+- ✅ Learning DSA
+- ✅ Build Projects
+- ✅ Full Stack Developer in Progress
+- ✅ Learn Blockchain & Smart Contracts
+- ✅ Contribute to Open Source
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/iamanpanchal">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aman-panchal-a3b3aa317">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:iamanpanchal@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/iamanpanchal">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="45"/>
+</a>
+
+<a href="https://www.instagram.com/aman_panchal19">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+</div>
